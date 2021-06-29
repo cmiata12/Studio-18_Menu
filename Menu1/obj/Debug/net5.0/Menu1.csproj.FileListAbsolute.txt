@@ -1,0 +1,15 @@
+/Users/chazmensmith/Projects/Menu1/Menu1/obj/Debug/net5.0/Menu1.csproj.AssemblyReference.cache
+/Users/chazmensmith/Projects/Menu1/Menu1/obj/Debug/net5.0/Menu1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chazmensmith/Projects/Menu1/Menu1/obj/Debug/net5.0/Menu1.AssemblyInfoInputs.cache
+/Users/chazmensmith/Projects/Menu1/Menu1/obj/Debug/net5.0/Menu1.AssemblyInfo.cs
+/Users/chazmensmith/Projects/Menu1/Menu1/obj/Debug/net5.0/Menu1.csproj.CoreCompileInputs.cache
+/Users/chazmensmith/Projects/Menu1/Menu1/bin/Debug/net5.0/Menu1.deps.json
+/Users/chazmensmith/Projects/Menu1/Menu1/bin/Debug/net5.0/Menu1.runtimeconfig.json
+/Users/chazmensmith/Projects/Menu1/Menu1/bin/Debug/net5.0/Menu1.runtimeconfig.dev.json
+/Users/chazmensmith/Projects/Menu1/Menu1/bin/Debug/net5.0/Menu1.dll
+/Users/chazmensmith/Projects/Menu1/Menu1/bin/Debug/net5.0/ref/Menu1.dll
+/Users/chazmensmith/Projects/Menu1/Menu1/bin/Debug/net5.0/Menu1.pdb
+/Users/chazmensmith/Projects/Menu1/Menu1/obj/Debug/net5.0/Menu1.dll
+/Users/chazmensmith/Projects/Menu1/Menu1/obj/Debug/net5.0/ref/Menu1.dll
+/Users/chazmensmith/Projects/Menu1/Menu1/obj/Debug/net5.0/Menu1.pdb
+/Users/chazmensmith/Projects/Menu1/Menu1/obj/Debug/net5.0/Menu1.genruntimeconfig.cache
